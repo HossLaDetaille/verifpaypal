@@ -1,2 +1,2 @@
 # verifpaypal
-20765525162081
+hwid_request 20765525162081
